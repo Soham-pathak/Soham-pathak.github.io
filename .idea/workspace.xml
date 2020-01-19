@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c920816c-67a9-4f74-ae68-df17be3b2102" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/css/freelancer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/css/freelancer.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/IMG_0028.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/avataaars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/circle-cropped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/cabin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/cake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/circus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/fall17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/fall18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/fall19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/safe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/submarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/triangle-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/triangle-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/triangle-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/winter18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/winter19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/img/portfolio/winter20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/js/contact_me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/js/contact_me.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/js/freelancer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/js/freelancer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/js/jqBootstrapValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/js/jqBootstrapValidation.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/mail/contact_me.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/base/_page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/base/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/components/_divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/freelancer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/layout/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/layout/_masthead.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/layout/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/scss/layout/_portfolio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/svg-with-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/jquery-easing/jquery.easing.compatibility.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/jquery-easing/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/jquery-easing/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-portfolio/vendor/jquery/jquery.slim.min.map" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Soham-pathak.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Soham-pathak.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Soham-pathak.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c920816c-67a9-4f74-ae68-df17be3b2102" name="Default Changelist" comment="" />
+      <created>1579458876702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579458876702</updated>
+      <workItem from="1579458879985" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="610000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Personal-portfolio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
